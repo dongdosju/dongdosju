@@ -6,7 +6,7 @@
 <h3 align="center">PhD in Aerospace Engineering</h3>
 
 <div align="center">
-    <img alt="Coding" width="300" src="https://about.att.com/ecms/dam/snr/2018/May%202018/All-Weather_Drone_Use_Case1_FB-TW_v2%20FINAL.gif">
+    <img alt="Coding" width="300" src="media/drone_animated.gif">
 </div>
 
 <div align="center">
