@@ -114,7 +114,7 @@
     />
   <img 
         width=390 
-        src="https://github-readme-stats-git-master-dong-dos-projects.vercel.app/api?username=dongdosju&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=3382ed&icon_color=3382ed&hide=prs,issues,"
+        src="https://github-readme-stats-git-master-dong-dos-projects.vercel.app/api?username=dongdosju&count_private=false&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=3382ed&icon_color=3382ed"
         alt="readme stats" 
     />
   <br/>
