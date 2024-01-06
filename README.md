@@ -32,17 +32,17 @@
 <div align="center">
 <h2> My Contributions </h2>
 <picture>
-  <source
+  <!-- <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/dongdosju/dongdosju/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
+    srcset="https://raw.githubusercontent.com/dongdosju/dongdosju/output/github-contribution-grid-snake-dark.gif"
+  /> -->
+  <!-- <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/dongdosju/dongdosju/github-contribution-grid-snake.svg"
-  />
+    srcset="https://raw.githubusercontent.com/platane/dongdosju/dongdosju/github-contribution-grid-snake.gif"
+  /> -->
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/dongdosju/dongdosju/output/github-contribution-grid-snake.gif"
+    src="https://raw.githubusercontent.com/dongdosju/dongdosju/output/github-contribution-grid-snake.svg"
   />
 </picture>
 </div>
