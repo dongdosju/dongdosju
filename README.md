@@ -56,7 +56,7 @@
     </picture> 
 </a>
 <a 
-    href="https://www.youtube.com/c/https://www.youtube.com/@dongdo_sju" 
+    href="https://www.youtube.com/@dongdo_sju" 
     target="blank"> 
     <img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
