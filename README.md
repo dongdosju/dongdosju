@@ -85,25 +85,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-    <h2> My Contributions </h2>
-    <picture>
-    <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/dongdosju/dongdosju/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/platane/dongdosju/dongdosju/github-contribution-grid-snake.svg"
-    />
-    <img
-        alt="github contribution grid snake animation"
-        src="https://raw.githubusercontent.com/dongdosju/dongdosju/output/github-contribution-grid-snake.svg"
-    />
-    </picture>
-</div>
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -124,6 +105,25 @@
         src="https://github-readme-stats-git-master-dong-dos-projects.vercel.app/api/top-langs/?username=dongdosju&hide=HTML,jupyter%20notebook&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&title_color=3382ed"
         alt="top langs" 
     />  
+</div>
+
+<hr/>
+<div align="center">
+    <h2> My Contributions </h2>
+    <picture>
+    <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/dongdosju/dongdosju/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/platane/dongdosju/dongdosju/github-contribution-grid-snake.svg"
+    />
+    <img
+        alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/dongdosju/dongdosju/output/github-contribution-grid-snake.svg"
+    />
+    </picture>
 </div>
 
 <br/>
