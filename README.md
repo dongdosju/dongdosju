@@ -98,13 +98,13 @@
         src="https://github-readme-stats-git-master-dong-dos-projects.vercel.app/api?username=dongdosju&count_private=false&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=3382ed&icon_color=3382ed"
         alt="readme stats" 
     />
-  <br/>
+<!--   <br/>
   <img 
         width=325 
         align="center" 
         src="https://github-readme-stats-git-master-dong-dos-projects.vercel.app/api/top-langs/?username=dongdosju&hide=HTML,jupyter%20notebook&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&title_color=3382ed"
         alt="top langs" 
-    />  
+    />   -->
 </div>
 
 <hr/>
